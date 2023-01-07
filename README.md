@@ -1,4 +1,4 @@
-# Microprocessor class in CCU
+# Microprocessor(NUC140) class in CCU 
 * LAB1-GPIO
 * LAB2-UART
 * LAB3-ADC
